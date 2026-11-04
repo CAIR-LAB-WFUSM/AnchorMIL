@@ -1,0 +1,6 @@
+torch>=2.1
+torchvision
+numpy
+pandas
+scikit-learn
+pytest
